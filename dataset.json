@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Providence-Warwick, RI-MA that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Providence-Warwick (Metro), RI-MA, US",
-  "export_job_id": "64866a21-bcf8-49fb-bcdb-5daf5838a59d",
+  "export_job_id": "af8dfa99-ad71-4270-98c5-68e3220b4571",
   "github_org": "Beamstation-Datasets",
   "id_short": 410325,
   "location_name": "Providence-Warwick, RI-MA",
   "location_type": "metro",
   "repo_name": "white-space-finder-in-providence-warwick-metro-ri-ma-us-sample-410325",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/410325/beamstation_410325_food_and_drink-us-providencewarwickrima_SAMPLE_DIST.csv",
-  "sample_pct": 7.69,
+  "sample_pct": 8.33,
   "sample_records": 1,
-  "sample_sha256": "259c0cd46decf9b9cea71249ad95a0088806d948b0892f90a19d3598dbfcae54",
-  "sample_size_bytes": 20009,
-  "total_records": 13,
-  "updated_at": "2026-04-07T16:39:38.418539+00:00"
+  "sample_sha256": "547cd58ae7c3d7c84ab049623cc11cc96deb165edd00626e41f69fa1e9adfffe",
+  "sample_size_bytes": 19871,
+  "total_records": 12,
+  "updated_at": "2026-04-14T22:28:31.591919+00:00"
 }
