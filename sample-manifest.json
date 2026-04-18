@@ -1,12 +1,12 @@
 {
-  "export_job_id": "64866a21-bcf8-49fb-bcdb-5daf5838a59d",
+  "export_job_id": "af8dfa99-ad71-4270-98c5-68e3220b4571",
   "id_short": 410325,
-  "published_at": "2026-04-12T07:33:40Z",
+  "published_at": "2026-04-18T19:04:05Z",
   "repo_name": "white-space-finder-in-providence-warwick-metro-ri-ma-us-sample-410325",
   "sample_asset_name": "beamstation_410325_food_and_drink-us-providencewarwickrima_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/410325/beamstation_410325_food_and_drink-us-providencewarwickrima_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "259c0cd46decf9b9cea71249ad95a0088806d948b0892f90a19d3598dbfcae54",
-  "sample_size_bytes": 20009,
-  "total_records": 13
+  "sample_sha256": "547cd58ae7c3d7c84ab049623cc11cc96deb165edd00626e41f69fa1e9adfffe",
+  "sample_size_bytes": 19871,
+  "total_records": 12
 }
