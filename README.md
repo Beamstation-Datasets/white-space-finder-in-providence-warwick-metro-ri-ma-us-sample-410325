@@ -9,9 +9,9 @@
 | Dataset ID | `410325` |
 | Location | Providence-Warwick, RI-MA |
 | Category | Restaurants |
-| Full dataset size | 13 records |
-| Free sample size | 1 records (7.69%) |
-| Last export | 2026-04-07T16:39:38.418539+00:00 |
+| Full dataset size | 12 records |
+| Free sample size | 1 records (8.33%) |
+| Last export | 2026-04-14T22:28:31.591919+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-providence-warwick-metro-ri-ma-us-sample-410325/releases/download/sample-latest/beamstation_410325_food_and_drink-us-providencewarwickrima_SAMPLE_DIST.csv) |
 
 ## What is in this sample
